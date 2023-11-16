@@ -1,0 +1,444 @@
+.group-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 86px;
+  height: 86px;
+}
+.our-application-proc,
+.snappy-process {
+  position: absolute;
+  width: 100%;
+  left: 0;
+  display: inline-block;
+}
+.snappy-process {
+  height: 28.79%;
+  top: 0;
+  letter-spacing: -0.39px;
+}
+.our-application-proc {
+  top: calc(50% - 12px);
+  font-size: var(--font-size-base);
+  line-height: 26px;
+  font-family: var(--font-karla);
+  color: var(--color-gray-100);
+  height: 78px;
+}
+.snappy-process-parent {
+  position: absolute;
+  top: 118px;
+  left: 0;
+  width: 350px;
+  height: 132px;
+  overflow: hidden;
+}
+.group-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 350px;
+  height: 250px;
+}
+.group-div,
+.group-parent,
+.group-parent1,
+.were-different {
+  position: absolute;
+  top: 0;
+  left: 380px;
+  width: 350px;
+  height: 250px;
+}
+.group-parent,
+.group-parent1,
+.were-different {
+  left: 760px;
+}
+.group-parent,
+.were-different {
+  top: 224px;
+  left: 0;
+  width: 1110px;
+}
+.were-different {
+  top: 64px;
+  font-size: var(--font-size-53xl);
+  letter-spacing: -1px;
+  line-height: 64px;
+  display: inline-block;
+  width: 717px;
+  height: 64px;
+}
+.rectangle {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #c396c6;
+  width: 150px;
+  height: 1px;
+}
+.group {
+  position: absolute;
+  top: 985px;
+  left: 165px;
+  width: 1110px;
+  height: 474px;
+  font-size: var(--font-size-9xl);
+  color: var(--color-gray-300);
+  font-family: var(--font-dm-serif-display);
+}
+.bitmap,
+.mask {
+  position: absolute;
+  left: 0;
+  width: 1440px;
+  height: 600px;
+}
+.mask {
+  top: 0;
+  background-color: var(--color-gray-200);
+}
+.bitmap {
+  top: 80px;
+}
+.bitmap-copy-icon {
+  position: absolute;
+  top: 185px;
+  left: 735px;
+  width: 540px;
+  height: 650px;
+  object-fit: cover;
+}
+.humanizing {
+  margin: 0;
+}
+.humanizing-your-insu-container {
+  height: 46.05%;
+  top: 0;
+  letter-spacing: -1px;
+  line-height: 64px;
+  font-family: var(--font-dm-serif-display);
+  display: inline-block;
+}
+.get-your-life,
+.humanizing-your-insu-container,
+.rectangle1 {
+  position: absolute;
+  width: 100%;
+  left: 0;
+}
+.get-your-life {
+  top: calc(50% + 4px);
+  font-size: var(--font-size-base);
+  line-height: 26px;
+  display: inline-block;
+  height: 84px;
+}
+.rectangle1 {
+  height: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  border: 1.5px solid var(--pure-white);
+  box-sizing: border-box;
+}
+.view-plans {
+  position: absolute;
+  top: calc(50% - 7px);
+  left: 19.52%;
+  letter-spacing: 1.5px;
+}
+.rectangle-parent {
+  position: absolute;
+  height: 13.16%;
+  width: 27.04%;
+  top: 86.84%;
+  right: 72.96%;
+  bottom: 0;
+  left: 0;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-smi);
+}
+.humanizing-your-insu-parent {
+  position: absolute;
+  top: 249px;
+  left: 165px;
+  width: 540px;
+  height: 304px;
+  overflow: hidden;
+  font-size: var(--font-size-53xl);
+}
+.rectangle2 {
+  position: absolute;
+  top: 185px;
+  left: 165px;
+  background-color: var(--pure-white);
+  width: 150px;
+  height: 1px;
+}
+.desktop-child,
+.desktop-item,
+.rectangle3 {
+  position: absolute;
+  top: 0;
+  left: 1004.5px;
+  width: 697px;
+  height: 649px;
+}
+.desktop-item,
+.rectangle3 {
+  top: 493.5px;
+  left: 0;
+  height: 650px;
+}
+.rectangle3 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  background-color: var(--pure-white);
+}
+.insure-icon {
+  position: relative;
+  width: 111.2px;
+  height: 18px;
+}
+.rectangle4 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--pure-white);
+  border: 1.5px solid var(--color-gray-300);
+  box-sizing: border-box;
+}
+.rectangle-container {
+  position: absolute;
+  height: 50%;
+  width: 10.14%;
+  top: 26.25%;
+  right: 11.46%;
+  bottom: 23.75%;
+  left: 78.4%;
+  overflow: hidden;
+  color: var(--color-gray-300);
+}
+.account,
+.blog,
+.how-we-work {
+  position: absolute;
+  top: calc(50% - 6px);
+  left: 71.39%;
+  letter-spacing: 1.5px;
+}
+.blog,
+.how-we-work {
+  left: 66.94%;
+}
+.how-we-work {
+  left: 57.5%;
+}
+.group-6-copy,
+.rectangle-group {
+  position: absolute;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+}
+.rectangle-group {
+  width: 1440px;
+  height: 80px;
+  text-align: center;
+  color: var(--color-gray-100);
+}
+.group-6-copy {
+  height: 100%;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  max-width: 100%;
+  max-height: 100%;
+}
+.how-we-work1 {
+  position: absolute;
+  top: calc(50% - 7px);
+  left: 15.31%;
+  letter-spacing: 1.5px;
+}
+.rectangle-parent1 {
+  position: absolute;
+  height: 16%;
+  width: 14.41%;
+  top: 42%;
+  right: 7.21%;
+  bottom: 42%;
+  left: 78.38%;
+  overflow: hidden;
+}
+.find-out-more-container {
+  position: absolute;
+  top: calc(50% - 56px);
+  left: 7.3%;
+  font-size: 56px;
+  letter-spacing: -0.78px;
+  line-height: 56px;
+  font-family: var(--font-dm-serif-display);
+  text-align: left;
+}
+.group-6-copy-parent {
+  position: absolute;
+  top: 1617px;
+  left: 165px;
+  width: 1110px;
+  height: 250px;
+  overflow: hidden;
+  text-align: center;
+}
+.group-18-copy {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 393px;
+}
+.our-company,
+.reviews,
+.why-insure {
+  position: absolute;
+  width: 100%;
+  left: 0;
+  letter-spacing: 1.5px;
+  display: inline-block;
+}
+.our-company {
+  top: calc(50% - 79.5px);
+  color: var(--color-gray-100);
+}
+.reviews,
+.why-insure {
+  top: calc(50% + 2.5px);
+}
+.reviews {
+  top: calc(50% + 64.5px);
+}
+.our-company-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 255px;
+  height: 159px;
+  overflow: hidden;
+}
+.faq,
+.privacy-policy {
+  position: absolute;
+  width: 100%;
+  top: calc(50% - 28.5px);
+  left: 0;
+  letter-spacing: 1.5px;
+  display: inline-block;
+}
+.privacy-policy {
+  top: calc(50% + 33.5px);
+}
+.group-6-copy-2 {
+  position: absolute;
+  top: 0;
+  left: 285px;
+  width: 255px;
+  height: 159px;
+  overflow: hidden;
+}
+.contact,
+.live-chat,
+.sales,
+.support {
+  position: absolute;
+  width: 100%;
+  left: 0;
+  letter-spacing: 1.5px;
+  display: inline-block;
+}
+.contact {
+  top: calc(50% - 64px);
+  color: var(--color-gray-100);
+}
+.live-chat,
+.sales,
+.support {
+  top: calc(50% - 13px);
+}
+.live-chat,
+.support {
+  top: calc(50% + 18px);
+}
+.live-chat {
+  top: calc(50% + 49px);
+}
+.group-6-copy-3,
+.group-6-copy-4 {
+  position: absolute;
+  top: 0;
+  left: 570px;
+  width: 255px;
+  height: 128px;
+  overflow: hidden;
+}
+.group-6-copy-4 {
+  left: 855px;
+}
+.frame-parent,
+.group-icon {
+  position: absolute;
+  top: 106px;
+  left: 0;
+  width: 1110px;
+  height: 159px;
+}
+.group-icon {
+  top: 0;
+  left: 966px;
+  width: 144px;
+  height: 24px;
+}
+.group-parent2,
+.rectangle6 {
+  position: absolute;
+  width: 1110px;
+}
+.rectangle6 {
+  top: 58px;
+  left: 0;
+  background-color: #dadada;
+  height: 1px;
+}
+.group-parent2 {
+  top: 64px;
+  left: 165px;
+  height: 265px;
+}
+.group-18-copy-parent {
+  position: absolute;
+  top: 2017px;
+  left: 0;
+  width: 1440px;
+  height: 393px;
+  color: var(--color-gray-200);
+}
+.desktop {
+  position: relative;
+  background-color: var(--pure-white);
+  width: 100%;
+  height: 2410px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-smi);
+  color: var(--pure-white);
+  font-family: var(--font-karla);
+}
